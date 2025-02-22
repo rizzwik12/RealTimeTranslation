@@ -1,0 +1,5 @@
+nginx
+streamlit
+transformers
+torch
+sentencepiece
